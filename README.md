@@ -1,5 +1,7 @@
 # TJAPlayer3-f
 
+issueはmilestoneの中の該当するものにぶちこんでね
+
 TJAPlayer3をForkして、趣味程度に改造してます。
 改造者:[@Mr_Ojii](https://twitter.com/Mr_Ojii)はC#を2020年3月に初めて触りました。  
 スパゲッティコードと化してますね。うん。たまに整理しましょうかね。
